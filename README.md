@@ -2,4 +2,4 @@
 
 Project for PETRICHOR, LTD
 
-Team Members: Georgina Pickworth
+Team Members: Georgina Pickworth & pals
